@@ -33,7 +33,7 @@ I am eagerly waiting to work in an IT environment where I can:
 ## 📫 Contact Me
 
 - **Email:** saisurya7860@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/sibisiddharths/
+- **LinkedIn:** https://www.linkedin.com/in/pradnya-k-t-8bb01a253/
 
 
 Feel free to reach out to me if you have any questions, collaboration ideas, or just want to connect!
