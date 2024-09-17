@@ -96,7 +96,7 @@ Feel free to reach out to me if you have any questions, collaboration ideas, or 
 <table>
   <tr>
     <td style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=saisurya7860&bg_color=000000&color=fff&line=1f6feb&point=ffffff&area=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats" />
+       <img src="https://github-readme-stats.vercel.app/api?username=saisurya7860&show_icons=true&theme=github_dark" alt="sibisiddharth8-readme-stats" />
     </td>
     <td style="border: none;">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=saisurya7860&theme=github-dark-blue" alt="GitHub Streak" />
