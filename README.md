@@ -3,7 +3,7 @@
 <img  width="220" src="assests/Designer (2).png">
 
 
-## 👩‍💻About me
+## 👩‍💻About me 
 
 I am a B.Tech Artificial Intelligence and Data Science student currently pursuing my final year degree. My passion lies in developing innovative solutions and exploring the vast potential of AI and data science. Here’s a little more about me:
 
