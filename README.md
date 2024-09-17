@@ -106,7 +106,7 @@ Feel free to reach out to me if you have any questions, collaboration ideas, or 
 
 ---
 
-[![Surya 's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=saisurya7860&bg_color=000000&color=ffffff&line=1f6feb&point=ffffff&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Surya 's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=saisurya7860&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
