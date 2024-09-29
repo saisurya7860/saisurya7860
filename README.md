@@ -1,8 +1,8 @@
-# Hi there! 👋 I'm Surya
+# Hi there! 👋 I'm Surya ![Profile views](https://komarev.com/ghpvc/?username=saisurya7860&color=1f6feb&style=flat-square)
 
 <img  width="220" src="assests/Designer (2).png">
 
-![Profile views](https://komarev.com/ghpvc/?username=saisurya7860&color=1f6feb&style=flat-square)
+
 
 
 ## 👩‍💻About me 
