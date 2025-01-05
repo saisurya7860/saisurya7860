@@ -1,6 +1,12 @@
-# Hi there! 👋 I'm Surya  ![Profile views](https://komarev.com/ghpvc/?username=saisurya7860&color=1f6feb&style=flat-square)
+# Hi there! 👋 ![Profile views](https://komarev.com/ghpvc/?username=saisurya7860&color=1f6feb&style=flat-square)
 
-<img  width="220" src="assests/Designer (2).png">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=This+is+Surya)](https://git.io/typing-svg) 
+
+
+
+ 
+<img  width="220" src="assests/Designer (2).png" >
 
 
 
@@ -87,8 +93,9 @@ I am eagerly waiting to work in an IT environment where I can:
 
 ## 📫 Contact Me
 
-- 📫 Drop me a line at saisurya7860@gmail.com
-- <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" style="width:16px; height:16px;">  connect via LinkedIn[ Surya-btechi](https://www.linkedin.com/in/surya-btechi/)
+- <a href="mailto:saisurya7860@gmail.com"><img src="https://img.icons8.com/ios-filled/25/1f6feb/email-open.png" alt="Email"></a> saisurya7860@gmail.com  
+- <a href="https://www.linkedin.com/in/surya-btechi/"><img src="https://img.icons8.com/color/30/linkedin.png" alt="LinkedIn"></a> Connect on LinkedIn
+
 
 Feel free to reach out to me if you have any questions, collaboration ideas, or just want to connect!
 
@@ -109,6 +116,13 @@ Feel free to reach out to me if you have any questions, collaboration ideas, or 
 ---
 
 ![My Contributions](https://github-readme-activity-graph.vercel.app/graph?username=saisurya7860&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=false)
+
+
+
+
+
+
+
 
 
 
