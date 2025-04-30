@@ -26,10 +26,11 @@ I am a B.Tech Artificial Intelligence and Data Science student currently pursuin
 
 ## I code in 
 
-- <img width="30" height="30" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/> `print("HI 'm Surya")` 
+- <img width="30" height="30" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/> `print("HI, I'm Surya")` 
 - <img width="30" height="30" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/> `<!Doctype html>`
 - <img width="30" height="30" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/> `Display : flex `
 - <img width="30" height="30" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/> `console.log('XMLHttpRequest()');`
+- <img src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000" title="ReactJS" alt="Surya ReactJS" height="40" width="40"/>`const[name,setName] = useState('Surya');`
 
 <br>
 
@@ -40,10 +41,12 @@ I am a B.Tech Artificial Intelligence and Data Science student currently pursuin
 ⚡Crafting engaging, responsive, and visually stunning front-end designs using HTML, CSS, JavaScript, and React to deliver seamless user experiences.
 <table style="width: 80%; table-layout: fixed;">
     <tr align="center"> 
-        <td><img width="40" height="40" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/></td>
-        <td><img width="40" height="40" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/></td>
-        <td><img height="40" width="40" src="https://img.icons8.com/color/48/000000/bootstrap.png" /></td>
-        <td><img width="40" height="40" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/></td>
+       <td><img width="40" height="40" src="https://img.icons8.com/color/48/html-5--v1.png" title="HTML5" alt="Surya HTML5"/></td>
+        <td><img width="40" height="40" src="https://img.icons8.com/fluency/48/css3.png" title="CSS3" alt="Surya CSS3"/></td>
+        <td><img src="https://img.icons8.com/?size=100&id=CIAZz2CYc6Kc&format=png&color=000000" title="Tailwind CSS" alt="Surya Tailwind CSS" height="40" width="40"/></td>
+        <td><img height="40" width="40" src="https://img.icons8.com/color/48/000000/bootstrap.png" title="Bootstrap" alt="Surya Bootstrap"/></td>
+        <td><img width="40" height="40" src="https://img.icons8.com/color/48/javascript--v1.png" title="JavaScript" alt="Surya JavaScript"/></td>
+        <td><img src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000" title="ReactJS" alt="Surya ReactJS" height="40" width="40"/></td>
     </tr>
 </table>
 
