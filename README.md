@@ -113,13 +113,6 @@ Feel free to reach out to me if you have any questions, collaboration ideas, or 
     <td style="border: none;">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=saisurya7860&theme=github-dark-blue" alt="surya GitHub Streak" />
     </td>
-    <td style = "border:none;">
-        <img src="![Surya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saisurya7860&show_icons=true&theme=dark&show_private=true&include_all_commits=true)" alt="surya-readme-stats" />
-    </td>
-
-    <td style="border: none;">
-        <img src="![Surya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saisurya7860&show_icons=true&theme=dark&show_private=true)" alt="surya GitHub Streak" />
-    </td>
   </tr>
 </table >
 
