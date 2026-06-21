@@ -8,13 +8,16 @@
 
 I'm a Full-Stack Developer with a strong interest in building scalable web applications, backend systems, and AI-powered solutions. I enjoy turning ideas into impactful products through clean code, modern technologies, and continuous learning.
 
-* 🔭 Portfolio: https://saisurya.me
-* 💻 Interested in Full-Stack Development, Backend Engineering, and AI
-* 🚀 Building web applications with React, Node.js, Express.js, Python, and modern databases
-* 🤝 Open to collaboration on Full-Stack and AI projects
-* ✉️ Reach me at: [saisurya7860@gmail.com](mailto:saisurya7860@gmail.com)
-* <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="16"/> LinkedIn: [Surya-btechi](https://www.linkedin.com/in/surya-btechi/)
-
+- 🔭 Portfolio :<a href="https://saisurya.me" target="_blank"> www.saisurya.me</a>
+- 💻 Interested in Full-Stack Development, Backend Engineering, and AI
+- 🚀 Building web applications with React, Node.js, Express.js, Python, and modern databases
+- 🤝 Open to collaboration on Full-Stack and AI projects
+- ✉️ Reach me at: [saisurya7860@gmail.com](mailto:saisurya7860@gmail.com)
+- <div> <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="16" />
+  LinkedIn : 
+    <a href="https://www.linkedin.com/in/surya-btechi/" target="_blank">
+      Surya-btechi
+    </a></div>
 - 😄 Pronouns: Techie
 
 ## 🛠 Skills & Technologies
@@ -124,7 +127,6 @@ I'm a Full-Stack Developer with a strong interest in building scalable web appli
 </td>
 </tr>
 </table>
-
 
 ## 🌟 Interests
 
